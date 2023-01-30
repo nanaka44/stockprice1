@@ -1,2 +1,4 @@
-streamllit
+pandas
 yfinance
+altair
+streamit
